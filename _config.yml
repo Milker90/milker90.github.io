@@ -24,7 +24,7 @@ author:
   bio: Let's Do it!
   email_md5: f469932393622596c1b973acb02f4d31
 
-rss_path: feed.xml
+# rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
